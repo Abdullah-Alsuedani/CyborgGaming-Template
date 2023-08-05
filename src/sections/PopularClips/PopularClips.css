@@ -1,0 +1,10 @@
+
+.popular-clips{
+    margin-top: 50px;
+    padding-bottom: 70px;
+}
+
+.popular-clips-cards{
+    display: flex;
+    flex-wrap: wrap;
+}

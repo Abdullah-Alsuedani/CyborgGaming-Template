@@ -1,0 +1,44 @@
+.popular-clips-card{
+    padding: 0 10px;
+    margin-bottom: 30px;
+    width: 25%;
+}
+
+@media (max-width: 992px) {
+    .popular-clips-card{
+        width: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    .popular-clips-card{
+        width: 100%;
+    }
+}
+
+.popular-clips-card .item{
+    background-color: var(--dark-color);
+    padding: 30px 15px;
+    border-radius: 25px;
+}
+
+.popular-clips-card .item img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.popular-clips-card-content{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.popular-clips-card-content p{
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.popular-clips-card-content span{
+    font-weight: 400;
+    font-size: 14px;
+}

@@ -1,0 +1,7 @@
+.section-wrapper{
+    background-color: var(--darkest-color);
+    border-radius: 25px;
+    margin-top: 50px;
+    padding: 30px 20px;
+    position: relative;
+}

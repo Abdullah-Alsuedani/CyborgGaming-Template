@@ -1,0 +1,22 @@
+
+.section-title{
+    padding: 0 10px;
+}
+
+.section-title h4{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: var(--primary-color);
+}
+
+.section-title h4 span{
+    color: var(--light-color);
+    text-decoration: underline 2px var(--light-color);
+}
+
+@media (max-width: 992px) {
+    .section-title h4{
+        font-size: 20px;
+    }
+}

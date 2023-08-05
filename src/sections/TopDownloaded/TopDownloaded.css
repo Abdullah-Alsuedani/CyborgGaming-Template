@@ -1,0 +1,18 @@
+.top-download-section{
+    width: 33%;
+}
+
+@media (max-width: 1199px) {
+    .top-download-section{
+        width: 100%;
+    }
+}
+
+.top-download-section .view-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--primary-color);
+    padding: 30px 30px 0px;
+    font-weight: 600;
+}

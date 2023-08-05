@@ -1,0 +1,13 @@
+.owl-nav {
+    position: absolute;
+    right: 0;
+    top: -80px;
+    display: block !important;
+}
+
+.owl-nav button span{
+    font-size: 40px;
+    font-weight: 300;
+    padding: 0 3px;
+    color: var(--green-color);
+}

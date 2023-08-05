@@ -1,0 +1,11 @@
+.main-container{
+    background-color: var(--dark-color);
+    padding: 60px 60px 80px !important;
+    border-radius: 20px;
+}
+
+@media (max-width: 767px) {
+    .main-container{
+        padding: 30px 30px 80px !important;
+    }
+}

@@ -1,0 +1,9 @@
+.top-streamers-section{
+    width: 33%;
+}
+
+@media (max-width: 1199px) {
+    .top-streamers-section{
+        width: 100%;
+    }
+}

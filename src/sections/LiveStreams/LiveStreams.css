@@ -1,0 +1,9 @@
+.live-streams-section{
+    width: 67%;
+   }
+   
+   @media (max-width: 1199px) {
+       .live-streams-section{
+           width: 100%;
+       }
+   }

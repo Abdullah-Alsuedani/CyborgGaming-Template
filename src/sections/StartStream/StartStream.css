@@ -1,0 +1,20 @@
+.start-stream-section .section-wrapper{
+    background-color: transparent !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.start-stream-section .section-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.start-stream-section .cards-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 25px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

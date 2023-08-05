@@ -1,0 +1,9 @@
+.featured-section{
+ width: 67%;
+}
+
+@media (max-width: 1199px) {
+    .featured-section{
+        width: 100%;
+    }
+}

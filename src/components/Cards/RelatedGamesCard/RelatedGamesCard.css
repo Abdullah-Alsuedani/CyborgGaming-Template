@@ -1,0 +1,50 @@
+.related-games-card{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--dark-color);
+    width: 49%;
+}
+
+@media (max-width: 992px) {
+    .related-games-card{
+        width: 100%;
+    }
+}
+
+.related-games-card {
+    padding: 25px 10px;
+}
+
+.related-games-card img{
+    border-radius: 25px;
+}
+
+.related-games-card .card-info{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: calc(100% - 80px);
+}
+
+.related-games-card .card-info .card-title{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.related-games-card .card-info .card-category{
+    margin: 0;
+    font-size: 15px;
+    color: var(--green-color);
+    margin-bottom: 5px;
+}
+
+.related-games-card .card-info .card-icons{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.related-games-card .card-info .card-icons span{
+    font-size: 14px;
+}

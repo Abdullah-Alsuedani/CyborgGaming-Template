@@ -1,0 +1,57 @@
+.most-popular-card{
+    padding: 0 10px;
+    margin-bottom: 30px;
+    width: 25%;
+}
+
+@media (max-width: 992px) {
+    .most-popular-card{
+        width: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    .most-popular-card{
+        width: 100%;
+    }
+}
+
+.most-popular-card .item{
+    background-color: var(--dark-color);
+    padding: 30px 15px;
+    border-radius: 25px;
+}
+
+.most-popular-card .item img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.most-popular-card-content{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.most-popular-card-content div p{
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.most-popular-card-content div span{
+    color: var(--green-color);
+    font-weight: 400;
+}
+
+.most-popular-card-content ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0;
+}
+
+.most-popular-card-content ul li{
+    font-size: 14px;
+    font-weight: 500;
+}
+
