@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CyborgGaming-Template/static/css/main.231f8261.css",
-    "main.js": "/CyborgGaming-Template/static/js/main.8ea09ece.js",
+    "main.css": "/CyborgGaming-Template/static/css/main.92c5ecb3.css",
+    "main.js": "/CyborgGaming-Template/static/js/main.c03dc58c.js",
     "static/media/feature-right.jpg": "/CyborgGaming-Template/static/media/feature-right.01ad26795580300e2029.jpg",
     "static/media/profile.jpg": "/CyborgGaming-Template/static/media/profile.7e220d8a749ff31feac9.jpg",
     "static/media/banner-bg.jpg": "/CyborgGaming-Template/static/media/banner-bg.f41cb78948354a14694e.jpg",
@@ -30,11 +30,11 @@
     "static/media/popular-07.jpg": "/CyborgGaming-Template/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
     "static/media/popular-03.jpg": "/CyborgGaming-Template/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/CyborgGaming-Template/index.html",
-    "main.231f8261.css.map": "/CyborgGaming-Template/static/css/main.231f8261.css.map",
-    "main.8ea09ece.js.map": "/CyborgGaming-Template/static/js/main.8ea09ece.js.map"
+    "main.92c5ecb3.css.map": "/CyborgGaming-Template/static/css/main.92c5ecb3.css.map",
+    "main.c03dc58c.js.map": "/CyborgGaming-Template/static/js/main.c03dc58c.js.map"
   },
   "entrypoints": [
-    "static/css/main.231f8261.css",
-    "static/js/main.8ea09ece.js"
+    "static/css/main.92c5ecb3.css",
+    "static/js/main.c03dc58c.js"
   ]
 }
