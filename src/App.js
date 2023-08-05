@@ -12,7 +12,7 @@ import { Home, Browse, Details, Streams, Profile } from './Pages';
 
 const App = () => {
     return(
-      <Router>
+      <Router basename={'/CyborgGaming-Template'}>
         <Header/>
         <Container>
           <Routes>
